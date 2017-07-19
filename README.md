@@ -1,0 +1,3 @@
+- https://developer.github.com/webhooks/
+- create config.js
+- create scripts/owner-repo.js script
